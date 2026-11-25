@@ -125,3 +125,8 @@ Los **cinco scripts** se encuentran en `Assets/_TA5/Scripts/`:
 | [`TA5AcabadoUrbano.cs`](Assets/_TA5/Scripts/Editor/TA5AcabadoUrbano.cs)       | **Editor:** aplica acabados, aceras, bordes y vegetación                            |
 
 ---
+
+## 👥 Integrantes
+
+- Samir Erick Quintana Canorio
+- Walter Jesus Sanchez Pajuelo
